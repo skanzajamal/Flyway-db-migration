@@ -1,0 +1,1 @@
+ALTER TABLE stock ADD COLUMN customer VARCHAR(50);

@@ -1,0 +1,4 @@
+CREATE TABLE stock (
+	  id INT AUTO_INCREMENT  PRIMARY KEY,
+	  customer VARCHAR(50),
+	);
