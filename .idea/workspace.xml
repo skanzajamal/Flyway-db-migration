@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="7d7a19c7-51d3-4b48-bb5e-266b6e0c871c" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/flyway/flyway.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/flyway/src/main/resources/config/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/flyway/src/main/resources/config/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/flyway/target/classes/com/Model/SharedPrice.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/flyway/target/classes/config/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/flyway/target/classes/config/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/flyway/target/classes/db/migration/V1_1__alter-table.sql" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="2KkjsCzJbq52L7hUZeHsd5rRnvn" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="postgresql" />
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../localstack-example" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="project.structure.last.edited" value="Problems" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FlywayApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="flyway" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.FlywayApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7d7a19c7-51d3-4b48-bb5e-266b6e0c871c" name="Default Changelist" comment="" />
+      <created>1674525680842</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1674525680842</updated>
+      <workItem from="1674525685178" duration="639000" />
+      <workItem from="1674526369770" duration="766000" />
+      <workItem from="1674552533237" duration="21000" />
+      <workItem from="1675284362042" duration="876000" />
+      <workItem from="1691594191181" duration="1549000" />
+      <workItem from="1691596743980" duration="806000" />
+      <workItem from="1691597799887" duration="364000" />
+      <workItem from="1691604877795" duration="790000" />
+      <workItem from="1691605815997" duration="11000" />
+      <workItem from="1693595543758" duration="21000" />
+      <workItem from="1693597042125" duration="316000" />
+      <workItem from="1693640083824" duration="202000" />
+      <workItem from="1694200725737" duration="14000" />
+      <workItem from="1694201698606" duration="16000" />
+      <workItem from="1694202107456" duration="81000" />
+      <workItem from="1694202254235" duration="2622000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+</project>
